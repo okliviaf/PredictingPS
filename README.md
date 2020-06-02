@@ -33,3 +33,7 @@ in a dedicated Google Colab notebook. The link will be release as soon as possib
 - Alessandro Suglia (as247@hw.ac.uk)
 - Leif Azzopardi (leifos@acm.org)
 - Martin Halvey (martin.halvey@strath.ac.uk)
+
+## Acknowledgments
+
+This work was part funded by BAE Systems Maritime and EPSRC as part of an Industrial Cooperative Award in Science & Technology (CASE) Studentship (EP/S513908/1).
