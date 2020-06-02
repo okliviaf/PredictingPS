@@ -4,7 +4,7 @@ Perceptual Speed (PS) is a cognitive ability that is known to affect multiple fa
 
 ## Data summary
 
-The Machine Learning Models for this paper were derived from code which has been deposited on GitHub at the following link: [Per_query_PS_classification.ipynb]().
+The Machine Learning Models for this paper were derived from code which has been deposited on GitHub at the following link: [Per_query_PS_classification.ipynb](Per_query_PS_classification.ipynb).
 
 Please note: this code reads off 3 datasets which are separate CSV files (one for each Perceptual Speed classification task: Finding A’s; Number Comparison; and Overall Perceptual Speed).
 
